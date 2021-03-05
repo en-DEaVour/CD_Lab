@@ -1,3 +1,4 @@
+// Write a C program to display the operator name of a given input.
 #include<stdio.h>
 #include<string.h>
 
