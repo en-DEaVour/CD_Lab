@@ -1,6 +1,4 @@
-
-
-
+// Write a C program to display whether the given input is keyword or not.
 #include <stdio.h>
 #include <string.h>
 int main() {
