@@ -1,3 +1,4 @@
+// Write a C Program to remove Left Recursion from a given Grammer.
 #include<stdio.h>
 #include<string.h>
 void main()  {
