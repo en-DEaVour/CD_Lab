@@ -1,6 +1,10 @@
-
-
-
+/*Write a C program to read a file and display
+  a) Number of Characters
+  b) Number of digits
+  c) Number of spaces
+  d) Number of lines
+  e) Number of Special Characters
+  f) Number of alphabets*/
 
 #include <stdio.h>
 #include <ctype.h>
