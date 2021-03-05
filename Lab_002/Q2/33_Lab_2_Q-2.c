@@ -1,3 +1,4 @@
+// Write a C program to identify whether the given String is identifier or not.
 #include <stdio.h>
 #include <ctype.h>
 
