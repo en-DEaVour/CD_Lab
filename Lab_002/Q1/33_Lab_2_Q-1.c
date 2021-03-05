@@ -1,3 +1,4 @@
+// Write a C program to check whether a given String is accepted by given DFA or not.
 #include <stdio.h>
 #include <string.h>
 int main()
