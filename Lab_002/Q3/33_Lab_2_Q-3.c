@@ -1,3 +1,4 @@
+// Write a C program to identify whether the given constant is integer constant or real constant.
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
